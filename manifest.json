@@ -1,7 +1,7 @@
 {
     "name": "Jokes",
     "version": "0.0.1",
-    "manifest_version":2,
+    "manifest_version":3,
     "description": "Translate text from English to Hindi",
     "permissions": ["activeTab"],
     "browser_action": {
